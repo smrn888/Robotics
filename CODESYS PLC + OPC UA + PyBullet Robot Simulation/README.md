@@ -258,5 +258,5 @@ From `cycle_latency_log.json` — 2 complete rounds:
 
 ## 👤 Author
 
-**Moein**  
+**Moein Razavi | The Autonomous Navigation and Transportation Systems and the Advanced Instrumentation Laboratory, School of Mechanical Engineering, University of Tehran, Tehran, Iran (e-mail: sm.razavinabavi@ut.ac.ir)**  
 Portfolio project demonstrating Industry 4.0 integration: PLC ↔ OPC UA ↔ Python ↔ Robot Simulation ↔ Computer Vision
