@@ -7,9 +7,20 @@
 
 ## 📽️ Demo
 
-| Cycle 1 — All 7 boxes sorted | Latency Analysis |
-|:---:|:---:|
-| ![demo](assets/robot_demo.gif) | ![latency](assets/latency_analysis.png) |
+<table>
+  <tr>
+    <th align="center">Cycle 1 — All 7 boxes sorted</th>
+    <th align="center">Latency Analysis</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/robot_demo.gif" width="420"/>
+    </td>
+    <td align="center">
+      <img src="assets/latency_analysis.png" width="420"/>
+    </td>
+  </tr>
+</table>
 
 **Results (2 full rounds, 7 boxes each):**
 | Metric | Value |
