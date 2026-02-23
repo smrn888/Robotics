@@ -1,0 +1,26 @@
+[
+  {
+    "cycle": 1,
+    "round": 1,
+    "timestamp": "2026-02-23T12:58:08.567611",
+    "opcua_latency_ms": 0.99,
+    "vision_ms": 329.89,
+    "robot_duration_ms": 178961.28,
+    "plc_response_ms": 0.59,
+    "boxes_sorted": 7,
+    "total_sorted": 7,
+    "total_cycle_ms": 179292.75
+  },
+  {
+    "cycle": 2,
+    "round": 2,
+    "timestamp": "2026-02-23T13:01:13.894638",
+    "opcua_latency_ms": 1.29,
+    "vision_ms": 353.66,
+    "robot_duration_ms": 183826.96,
+    "plc_response_ms": 0.29,
+    "boxes_sorted": 7,
+    "total_sorted": 14,
+    "total_cycle_ms": 184182.2
+  }
+]
